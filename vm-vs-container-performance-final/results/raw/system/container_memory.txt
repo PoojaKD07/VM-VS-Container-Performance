@@ -1,0 +1,3 @@
+Observed container memory benchmark:
+10240.00 MiB transferred
+88925.30 MiB/sec

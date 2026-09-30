@@ -1,0 +1,6 @@
+Captured real times:
+0.143 s
+0.143 s
+0.142 s
+0.131 s
+0.126 s

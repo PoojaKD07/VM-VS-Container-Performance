@@ -1,0 +1,2 @@
+/health: 10000 requests, concurrency 100, 2684.63 requests/sec, 37.249 ms/request, 0 failed
+/compute: 1000 requests, concurrency 10, 28.47 requests/sec, 351.189 ms/request, 0 failed

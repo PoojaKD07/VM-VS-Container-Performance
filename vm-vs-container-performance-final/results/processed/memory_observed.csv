@@ -1,0 +1,2 @@
+workload,threads,block_size,total_size,throughput_mib_per_sec,source_pages
+Memory write,4,1MiB,10GiB,88925.30,1-2

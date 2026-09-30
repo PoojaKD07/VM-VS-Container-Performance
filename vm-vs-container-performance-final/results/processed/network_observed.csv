@@ -1,0 +1,5 @@
+test,duration_seconds,streams,throughput_gbit_per_sec,source_page
+Single stream A,30,1,65.9,3
+Parallel stream,30,4,280.0,4
+Single stream B,30,1,65.7,5
+Single stream C,30,1,65.9,6

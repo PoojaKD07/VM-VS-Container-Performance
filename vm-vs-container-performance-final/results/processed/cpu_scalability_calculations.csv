@@ -1,0 +1,4 @@
+threads,prime_limit,duration_seconds,events_per_second,source_page,scaling_vs_1_thread,increase_vs_1_thread_percent
+1,20000,30,1368.33,20,1.0,0.0
+4,20000,30,1882.93,22,1.376078869863264,37.6078869863264
+8,20000,30,2033.26,23,1.4859427184962692,48.59427184962692

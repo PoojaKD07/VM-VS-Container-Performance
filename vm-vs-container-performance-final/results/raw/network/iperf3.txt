@@ -1,0 +1,5 @@
+Captured iperf3 results from supplied screenshots:
+Single stream: 65.9 Gbit/s, 30 s
+Parallel streams: 280 Gbit/s, 30 s, P=4
+Single stream: 65.7 Gbit/s, 30 s
+Single stream: 65.9 Gbit/s, 30 s

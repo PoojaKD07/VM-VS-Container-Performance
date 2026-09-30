@@ -1,0 +1,5 @@
+Observed VM memory information from supplied evidence:
+Total memory: approximately 1.9 GiB
+Used: approximately 1.3 GiB
+Free: approximately 153 MiB
+Available: approximately 590 MiB

@@ -1,0 +1,2 @@
+Guest OS observed in the supplied screenshots: Ubuntu 24.04.5 LTS.
+Hypervisor vendor: VMware.

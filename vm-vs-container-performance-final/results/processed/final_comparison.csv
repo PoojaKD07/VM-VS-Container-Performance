@@ -1,0 +1,11 @@
+metric,vm,container,difference
+CPU performance,Observed scalability data,Not captured,—
+Memory performance,Not captured,88925.30 MiB/s,—
+Sequential read,Not captured,Not captured,—
+Sequential write,Not captured,Not captured,—
+Random read,Not captured,Not captured,—
+Random write,Not captured,Not captured,—
+Network throughput,Observed iperf3 data,Not captured,—
+Startup time,Not captured,0.137 s mean,—
+API /health,Not captured,2684.63 req/s,—
+API /compute,Not captured,28.47 req/s,—

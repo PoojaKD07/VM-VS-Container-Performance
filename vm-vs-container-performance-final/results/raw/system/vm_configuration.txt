@@ -1,0 +1,7 @@
+Observed from supplied screenshots:
+CPU(s): 2
+Model: 13th Gen Intel(R) Core(TM) i5-1335U
+Hypervisor vendor: VMware
+Virtualization type: full
+Memory total: approximately 1.9 GiB
+Guest OS: Ubuntu 24.04.5 LTS

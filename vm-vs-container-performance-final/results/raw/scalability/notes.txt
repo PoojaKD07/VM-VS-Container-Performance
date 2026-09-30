@@ -1,0 +1,1 @@
+CPU scalability calculations use only the 1, 4 and 8 thread runs because these three screenshots use the same 20,000-prime, 30-second workload.

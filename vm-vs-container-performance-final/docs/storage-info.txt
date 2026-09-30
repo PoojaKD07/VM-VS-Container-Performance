@@ -1,0 +1,2 @@
+Observed storage information from supplied evidence:
+Root filesystem shown at approximately 5.9G total, with approximately 5.9G used in the captured df output.

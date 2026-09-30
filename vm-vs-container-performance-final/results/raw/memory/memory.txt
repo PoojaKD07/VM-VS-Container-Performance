@@ -1,0 +1,7 @@
+Sysbench memory result captured from supplied screenshots:
+Threads: 4
+Block size: 1024 KiB
+Total size: 10240 MiB
+Total operations: 10240
+Throughput: 88925.30 MiB/sec
+Total time: 0.1142 s

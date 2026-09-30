@@ -1,0 +1,5 @@
+Observed VM CPU information from supplied evidence:
+CPU(s): 2
+Model: 13th Gen Intel(R) Core(TM) i5-1335U
+Hypervisor vendor: VMware
+Virtualization type: full

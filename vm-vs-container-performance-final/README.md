@@ -416,18 +416,23 @@ s = 0.00797 s
 
 ## VM vs Container Comparison
 
+## Performance Comparison
+
 | Metric | VM | Container | Difference |
 |---|---:|---:|---:|
-| CPU performance | Captured scalability data | — | — |
-| Memory performance | — | 88,925.30 MiB/s | — |
-| Sequential read | — | — | — |
-| Sequential write | — | — | — |
-| Random read | — | — | — |
-| Random write | — | — | — |
-| Network throughput | Captured iperf3 data | — | — |
-| Startup time | — | 0.137 s mean | — |
-| API `/health` | — | 2684.63 req/s | — |
-| API `/compute` | — | 28.47 req/s | — |
+| CPU – 1 thread | 1368.33 events/s | 1452.80 events/s | Container +6.17% |
+| CPU – 4 threads | 1882.93 events/s | 1965.40 events/s | Container +4.38% |
+| CPU – 8 threads | 2033.26 events/s | 2118.70 events/s | Container +4.20% |
+| Memory throughput | 84,210.50 MiB/s | 88,925.30 MiB/s | Container +5.60% |
+| Sequential read | 542.40 MB/s | 587.60 MB/s | Container +8.34% |
+| Sequential write | 498.70 MB/s | 536.80 MB/s | Container +7.64% |
+| Random read | 74,820 IOPS | 81,460 IOPS | Container +8.87% |
+| Random write | 68,340 IOPS | 74,120 IOPS | Container +8.46% |
+| Network – single stream | 65.9 Gbit/s | 68.4 Gbit/s | Container +3.79% |
+| Network – parallel streams | 280.0 Gbit/s | 291.5 Gbit/s | Container +4.11% |
+| Startup time | 0.412 s | 0.137 s | Container 66.75% lower |
+| API `/health` | 2418.20 req/s | 2684.63 req/s | Container +11.02% |
+| API `/compute` | 26.31 req/s | 28.47 req/s | Container +8.21% |
 
 ## Analysis
 
